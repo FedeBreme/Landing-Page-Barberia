@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: #171818;
+}
+
+/*Header*/
+
+#title {
+    color: #5c5555;
+    text-align: center;
+    font-size: 3rem;
+    font-family: "Bebas Neue";
+}
+
+/*NavBar*/
+
+.navbar {
+    background-color: #5c5555 !important;
+}
+
+.navbar-brand {
+    color: aliceblue;
+}
+
