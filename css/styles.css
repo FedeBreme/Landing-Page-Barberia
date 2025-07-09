@@ -2,24 +2,56 @@
 
 body {
     background-color: #171818;
+    font-family: "Bebas Neue";
 }
 
 /*Header*/
 
 #title {
-    color: #5c5555;
+    color: #636462;
     text-align: center;
-    font-size: 3rem;
-    font-family: "Bebas Neue";
+    font-size: 3.2rem;
 }
 
-/*NavBar*/
-
-.navbar {
-    background-color: #5c5555 !important;
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 15rem;
+    width: 250px; 
 }
 
-.navbar-brand {
+/*Article*/
+
+#sub-title {
+    color: #636462;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;      
+    align-items: center;          
+    flex-wrap: wrap;              
+    gap: 1.5rem;                  
+    margin-top: 2rem;             
+}
+
+.flex-items {
+    font-size: 1.4rem;
+    padding: 0.5rem 2rem;
+    border-radius: 2rem;
     color: aliceblue;
+    text-align: end;
+    transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
+/*Article2*/
+
+#text-quienesSomos {
+    font-family: "calibri";
+    color: aliceblue;
+    text-align: center;
+    margin: 0 auto;
+    width: 500px;
+}
