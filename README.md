@@ -25,7 +25,7 @@ Sitio web responsive diseñado y desarrollado para la barbería **Baigón**, con
 
 ## 🌐 Link al sitio publicado
 
-👉 (https://barberia-baigon.netlify.app/)
+👉 (https://barberiabaigon.netlify.app/)
 
 ---
 
